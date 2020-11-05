@@ -26,4 +26,4 @@ You must address the following questions and tasks in your exploratory analysis.
 
 ## Uploaded files
 1. Readme file.
-2. R project files including 6 R script files and correpsonding PNG files generated from the codes.
+2. 6 R script files and correpsonding PNG files generated from the codes.
